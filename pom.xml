@@ -94,10 +94,10 @@
 		</dependency>
   
 		         <dependency>
-  <groupId>org.sonarsource.scanner.maven</groupId>
-  <artifactId>sonar-maven-plugin</artifactId>
-  <version>3.7.0.1746</version>
-  <type>maven-plugin</type>
+    <groupId>org.codehaus.mojo</groupId>
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>3.4.0.905</version>
+    <type>pom</type>
 </dependency>
 
 	</dependencies>
