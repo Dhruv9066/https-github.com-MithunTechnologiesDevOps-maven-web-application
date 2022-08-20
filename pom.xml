@@ -15,11 +15,7 @@
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-       <version>3.7.0.1746</version>
-       <packaging>maven-plugin</packaging>
-    
+       
    
 	<properties>
 		<jdk.version>1.8</jdk.version>
@@ -31,8 +27,7 @@
 		<sonar.password>Welcome1$$</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		 <java.version>1.8</java.version>
-                  <sonar.scanner.force-deprecated-java-version>true</sonar.scanner.force-deprecated-java-version>
+		<sonar.scanner.force-deprecated-java-version>true</sonar.scanner.force-deprecated-java-version>
 
 	</properties>
 
