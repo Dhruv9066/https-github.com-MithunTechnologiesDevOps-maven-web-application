@@ -15,7 +15,10 @@
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
-   
+        <groupId>org.sonarsource.scanner.maven</groupId>
+        <artifactId>sonar-maven-plugin</artifactId>
+       <version>3.7.0.1746</version>
+       <packaging>maven-plugin</packaging>
     
    
 	<properties>
